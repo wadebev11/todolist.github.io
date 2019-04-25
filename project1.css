@@ -6,7 +6,7 @@ html, body, h1, h2, h3, h4, ul, ol, li, p, a {
 }
 html {
     background: black url(Green-Check-Mark.jpg) top center repeat;
-    background-size: 100px auto;
+    background-size: 200px auto;
 }
 
 h1 {
